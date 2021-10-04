@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Natalia
-### My email :envelope: : natalia.shiller@yahoo.com
+My email :envelope: : natalia.shiller@yahoo.com
 
 <!--
 **Winnbor/Winnbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
