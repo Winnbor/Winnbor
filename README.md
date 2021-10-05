@@ -1,4 +1,6 @@
 ### Hi there 👋 My name is Natalia
+🔭 I’m currently working on finding a fulltime job
+🌱 I’m currently learning Node.js, Next.js, Three.js
 📫 My email : natalia.shiller@yahoo.com
 
 <!--
