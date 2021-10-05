@@ -2,6 +2,8 @@
 - 🔭 I’m currently working on finding a fulltime job
 - 🌱 I’m currently learning Node.js, Next.js, Three.js
 - 📫 My email : natalia.shiller@yahoo.com
+- 💬 My Telegram @Leofa4ever
+
 
 <!--
 **Winnbor/Winnbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
