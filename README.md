@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js, Next.js, Three.js
 - 📫 My email : natalia.shiller@yahoo.com
 - 💬 My Telegram: @Leofa4ever
-
+![image](https://github.com/Winnbor/Winnbor/blob/main/space-invaders%201.svg)
 
 <!--
 **Winnbor/Winnbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
